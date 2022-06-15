@@ -28,3 +28,8 @@ html, body {
 .freecodecamp-logo {
   height: 50px;
 }
+
+.alinear-contenido{
+  display: flex;
+  justify-content: center;
+}
